@@ -11,7 +11,7 @@ namespace ProjetoAulaGit
 
             Console.WriteLine("Esqueci do Commit");
 
-            Console.ReadLine();
+            Console.WriteLine("Deszafer ultimo commit novamente");
         }
     }
 }
